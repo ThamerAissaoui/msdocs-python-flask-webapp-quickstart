@@ -77,5 +77,5 @@ jobs:
         id: deploy-to-webapp
         with:
           app-name: 'az-devp-web-app'
-          slot-name: 'Production'
+          slot-name: 'main'
           
